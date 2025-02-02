@@ -1,0 +1,4 @@
+# Description
+>Lurchers have the ability to burn Iron, which allows them to Pull on nearby metals. This can allow them to make metallic objects that weigh less than they do to fly through the air toward them. For metallic objects which weigh more than they do, this can cause them to be pulled toward the object. It was generally assumed that a Lurcher could not Pull on metals that pierce or are otherwise contained in the body of another Allomancer (e.g., ingested metals), however it can be achieved by an exceedingly powerful Allomancer, or a Hemalurgist.
+
+>Aluminum and several of its alloys cannot be "Pulled" or felt by a Lurcher.

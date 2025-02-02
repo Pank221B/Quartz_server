@@ -1,0 +1,3 @@
+# Description
+>**Hemalurgy** is the third magic system in the Mistborn Series. To use Hemalurgy, a metal spike must be driven through someone's heart. Then the spike is taken and stabbed into the body of another person, the location of which determines the power transferred. The preferred method is to stab it directly through the heart into the other person, as the longer it is left out of the body the more power is lost. While [[Allomancy]] is the art of Preservation and [[Feruchemy]] is the art of balance, Hemalurgy is the art of Ruin, as the transfer of power destroys some of it. [[Allomancy]] creates power, and [[Feruchemy]] does not destroy or create, but preserves. 
+>Hemalurgy consist of [[The Steel Ministry]] [[The Lord Ruler]]

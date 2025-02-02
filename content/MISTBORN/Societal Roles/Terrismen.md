@@ -1,0 +1,2 @@
+# Description
+>The culture of the Terris People is very complicated. Most Terris men are castrated at birth and become Terrismen Stewards for the [nobility](https://mistborn.fandom.com/wiki/Noble "Noble"). The women are used in the Lord Ruler's breeding program, so as to breed the genes for Feruchemy out of the **Terris** people.

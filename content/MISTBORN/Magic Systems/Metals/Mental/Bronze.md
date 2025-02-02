@@ -1,0 +1,2 @@
+# Description 
+> Seekers have the ability to burn Bronze, which allows them to determine if someone is using Allomancy in the immediate area. With practice, an Allomancer can determine the location of the other Allomancer, which metal the other Allomancer is burning, and to what extent the other Allomancer is burning his or her metal. An extremely powerful Allomancer can penetrate the copperclouds of other weaker Allomancers, but only if they (the more powerful Allomancer) are given a Hemalurgic spike for Bronze and had natural Bronze Allomancy.

@@ -1,0 +1,5 @@
+# Description 
+>**Feruchemy** is the second magic system in the series. Feruchemy works differently from the other magics. While an Allomancer burns metal to gain power, a Feruchemist must provide the power for the magic from their own body, storing it over time for use later. Feruchemist use the same metals as storage units; commonly referred to as "metalminds", to store up and expend their stored power.
+
+>The major strength of Feruchemy is the speed at which one can access its power. An Allomancer has limits to how much power they can draw at once; while a Feruchemist can draw out the power of the metalmind with virtually no upper limit, exhausting it in one massive burst if they so choose. For instance, a Feruchemist tapping a pewtermind can be far, far stronger than even a very powerful Mistborn burning pewter, if only for a short time.
+>Feruchemist consist of [[Terrismen]] [[The Lord Ruler]]

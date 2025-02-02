@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome To Mistborn/Of Artist and Orphews/Clowncore Takeover
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This seeks to be a place where everyone can collaboratively add, read and theorize about what shenanigans could possibly be happening in StairDweller's head

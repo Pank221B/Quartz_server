@@ -1,0 +1,2 @@
+# Description 
+>Tineyes have the ability to burn Tin, which allows them to enhance all five of their senses. Tineyes are often used as lookouts and scouts because they can see in near-darkness. A major flaw of burning is that if a sudden loud noise or bright light appears it can render a Tineye stunned for a short time. Tin also gives mental "stability" allowing the person to utilize all of the information that it provides and allowing them to assess a battle situation quicker than a normal person. The increase given compares in no way to the mental increase given by atium.
